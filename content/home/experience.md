@@ -42,15 +42,22 @@ experience:
         * Project 9: I am developing a structural variation calling method for one PI with Python (ongoing).
 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Project Manager
+    company: China UnionPay Merchant Services Company, Ltd.
+    company_url: 'https://www.chinaums.com/us/'
+    company_logo: ums
+    location: Shanghai, China
+    date_start: '2016-12-01'
+    date_end: '2017-11-01'
+    description: Ufood provides solutions for restaurant management. As a project manager, I supervised 10 employees and managed the accounts of over 1000 different vendors. We designed applications for PC, tablet, and POS terminal, website for restaurant management, in addition to creating customized WeChat accounts for vendors and customers to facilitate reservations, ordering, and payments. 
+  - title: Programmer
+    company: China UnionPay Merchant Services Company, Ltd.
+    company_url: 'https://www.chinaums.com/us/'
+    company_logo: ums
+    location: Shanghai, China
+    date_start: '2012-05-21'
+    date_end: '2016-12-01'
+    description: I worked with senior personnel of international companies (Vanguard, McDonald's, Yum, NBA Play zone, Bestseller, ZARA, Decathlon, etc) to develop and implement their integrated payment system for the Chinese market. Our module is deployed on the computers of cashiers or vending machines to drive hardware and communicate with bank servers securely. 
 design:
   columns: '2'
 ---
