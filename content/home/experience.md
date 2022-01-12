@@ -41,7 +41,14 @@ experience:
         * Project 8: I developed a job submission website using Python, HTML, CSS, JavaScript and etc. for students and postdocs who are not familiar with Linux commands and high-performance computing clusters (HPC).
         * Project 9: I am developing a structural variation calling method for one PI with Python (ongoing).
 
-        
+  - title: Volunteer 
+    company: Albert Einstein College of Medicine
+    company_url: 'https://einsteinmed.edu'
+    company_logo: einstein
+    location: Bronx New York, USA
+    date_start: '2018-06-01'
+    date_end: '2019-04-14'
+    description: As a volunteer I helped postdocs to implement their analyzing pipelines on HPC. And I learned necessary knowledge (single-cell WGS sequencing, DNA mapping, variant calling, etc.) for optimizing the SNV caller for single-cell sequencing data.       
   - title: Project Manager
     company: China UnionPay Merchant Services Company, Ltd., Ufood Division
     company_url: 'https://www.chinaums.com/shfw/hyjjfa/canyin/'
