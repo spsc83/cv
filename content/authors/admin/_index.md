@@ -70,8 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yujue Wang is a research technician at Albert Einstein College of Medicine, department of genetics. He helps the postdocs, professors, and labs with their computational projects. He is familiar with the DNA mapping and variant calling pipeline. And he is fluent in many coding languages such as Python, R, Flask, MySQL, HTML, CSS, JavaScript, jQuery, Bash, C/C++, Delphi, Java, Perl. He is also a native speaker of Chinese (Mandarin).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
