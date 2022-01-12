@@ -70,4 +70,4 @@ highlight_name: true
 Yujue Wang is a research technician at Albert Einstein College of Medicine, department of genetics. He helps the postdocs, professors, and labs with their computational projects. He is familiar with the DNA mapping and variant calling pipeline. And he is fluent in many coding languages such as Python, R, Flask, MySQL, HTML, CSS, JavaScript, jQuery, Bash, C/C++, Delphi, Java, Perl. He is also a native speaker of Chinese (Mandarin).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Yujue Wang.docx" "newtab" >}}resumé{{< /staticref >}}.
