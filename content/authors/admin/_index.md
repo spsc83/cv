@@ -27,10 +27,10 @@ education:
   courses:
   - course: M.S. in Control Science and Engineering
     institution: East China University of Science and Technology, Shanghai, China
-    year: 2012
+    year: Sep. 2007 - May 2012 
   - course: B.S. in Electrical Engineering and Automation
     institution: Tongji University, Shanghai, China
-    year: 2007
+    year: Sep. 2003 – Jun. 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
