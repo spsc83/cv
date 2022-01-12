@@ -44,7 +44,7 @@ experience:
         
   - title: Project Manager
     company: China UnionPay Merchant Services Company, Ltd., Ufood Division
-    company_url: 'https://www.chinaums.com/us/'
+    company_url: 'https://www.chinaums.com/shfw/hyjjfa/canyin/'
     company_logo: ums
     location: Shanghai, China
     date_start: '2016-12-01'
@@ -53,7 +53,7 @@ experience:
 
   - title: Programmer
     company: China UnionPay Merchant Services Company, Ltd., MIS-POS (merchant integrated system – point of sale) Department
-    company_url: 'https://www.chinaums.com/us/'
+    company_url: 'https://www.chinaums.com'
     company_logo: ums2
     location: Shanghai, China
     date_start: '2012-05-21'
