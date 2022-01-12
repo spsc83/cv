@@ -14,13 +14,13 @@ organizations:
   url: https://einsteinmed.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yujue Wang is intrested in DNA whole genome sequencing data analyzing, full stack developing. Currently he is studying maching learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- DNA whole genome sequencing data analyzing
+- Full stack developing
+- Machine learning
 
 # Education to show in About widget
 education:
@@ -42,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/spsc831
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7ULOJ9kZfznHvsPYXoTzpYDGks4X4yTKMxjHyS0R5jb46C_-vltDchd98pypsbW8G5J6qEd3_ennkz5S9EzZKy71VE6q7wRHXLcdoB4Eb79Mu1tVY&user=48HV5NoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/spsc83
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yujue-wang-bronx/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
