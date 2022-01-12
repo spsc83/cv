@@ -20,22 +20,27 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+
 - description: 
   icon: r-project
   icon_pack: fab
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-- description: 10%
+  name: R
+
+- description:
   icon: flask
   icon_pack: custom
   name: flask
-- description: 10%
+
+- description:
   icon: mysql
   icon_pack: custom
   name: MySQL
+
+- description: 
+  icon: html5
+  icon_pack: fab
+  name: HTML
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
