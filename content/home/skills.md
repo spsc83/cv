@@ -66,6 +66,11 @@ feature:
   icon_pack: custom
   name: C
 
+- description: 
+  icon: delphi
+  icon_pack: custom
+  name: Delphi
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
