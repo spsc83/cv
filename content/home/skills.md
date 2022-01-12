@@ -41,6 +41,21 @@ feature:
   icon_pack: fab
   name: HTML
 
+- description: 
+  icon: css3
+  icon_pack: fab
+  name: CSS
+
+- description: 
+  icon: js-square
+  icon_pack: fab
+  name: JavaScript
+
+- description: 
+  icon: jquery
+  icon_pack: custom
+  name: JQuery
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
