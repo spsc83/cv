@@ -32,6 +32,10 @@ feature:
   icon: flask
   icon_pack: custom
   name: flask
+- description: 10%
+  icon: mysql
+  icon_pack: custom
+  name: MySQL
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
