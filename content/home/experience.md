@@ -50,10 +50,11 @@ experience:
     date_start: '2016-12-01'
     date_end: '2017-11-01'
     description: Ufood provides solutions for restaurant management. As a project manager, I supervised 10 employees and managed the accounts of over 1000 different vendors. We designed applications for PC, tablet, and POS terminal, website for restaurant management, in addition to creating customized WeChat accounts for vendors and customers to facilitate reservations, ordering, and payments. 
+
   - title: Programmer
     company: China UnionPay Merchant Services Company, Ltd., MIS-POS (merchant integrated system – point of sale) Department
     company_url: 'https://www.chinaums.com/us/'
-    company_logo: ums
+    company_logo: ums2
     location: Shanghai, China
     date_start: '2012-05-21'
     date_end: '2016-12-01'
