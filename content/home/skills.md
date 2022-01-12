@@ -22,7 +22,7 @@ feature:
   name: Python
 - description: 
   icon: r-project
-  icon_pack: fas
+  icon_pack: fab
   name: Statistics
 - description: 10%
   icon: camera-retro
@@ -31,7 +31,7 @@ feature:
 - description: 10%
   icon: flask
   icon_pack: custom
-  name: Photography
+  name: flask
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
