@@ -43,7 +43,7 @@ experience:
 
         
   - title: Project Manager
-    company: China UnionPay Merchant Services Company, Ltd.
+    company: China UnionPay Merchant Services Company, Ltd., Ufood Division
     company_url: 'https://www.chinaums.com/us/'
     company_logo: ums
     location: Shanghai, China
@@ -51,7 +51,7 @@ experience:
     date_end: '2017-11-01'
     description: Ufood provides solutions for restaurant management. As a project manager, I supervised 10 employees and managed the accounts of over 1000 different vendors. We designed applications for PC, tablet, and POS terminal, website for restaurant management, in addition to creating customized WeChat accounts for vendors and customers to facilitate reservations, ordering, and payments. 
   - title: Programmer
-    company: China UnionPay Merchant Services Company, Ltd.
+    company: China UnionPay Merchant Services Company, Ltd., MIS-POS (merchant integrated system – point of sale) Department
     company_url: 'https://www.chinaums.com/us/'
     company_logo: ums
     location: Shanghai, China
