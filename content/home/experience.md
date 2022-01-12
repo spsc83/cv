@@ -25,7 +25,7 @@ experience:
   - title: Research Technician
     company: Albert Einstein College of Medicine
     company_url: 'https://einsteinmed.edu'
-    company_logo: einstein_logo
+    company_logo: einstein
     location: Bronx New York, USA
     date_start: '2019-04-15'
     date_end: ''
