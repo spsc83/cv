@@ -56,6 +56,16 @@ feature:
   icon_pack: custom
   name: JQuery
 
+- description: 
+  icon: bash
+  icon_pack: custom
+  name: Bash
+
+- description: 
+  icon: c
+  icon_pack: custom
+  name: C
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
