@@ -41,7 +41,7 @@ experience:
         * Project 8: I developed a job submission website using Python, HTML, CSS, JavaScript and etc. for students and postdocs who are not familiar with Linux commands and high-performance computing clusters (HPC).
         * Project 9: I am developing a structural variation calling method for one PI with Python (ongoing).
 
-  - title: Volunteer 
+  - title: Volunteer and waiting for my H1b visa approval
     company: Albert Einstein College of Medicine, Genetics Department
     company_url: 'https://einsteinmed.edu'
     company_logo: einstein
