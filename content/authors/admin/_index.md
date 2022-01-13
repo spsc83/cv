@@ -6,7 +6,7 @@ title: Yujue Wang
 superuser: true
 
 # Role/position/tagline
-role: 1853 Tomlinson Ave.<br>Bronx, NY, 10461;<br>(347)-789-0342<br>spsc83@gmail.com<br><br>Research Technician
+role: 1853 Tomlinson Ave.<br>Bronx, NY, 10461<br>(347)-789-0342<br>spsc83@gmail.com<br><br>Research Technician
 
 # Organizations/Affiliations to show in About widget
 organizations:
