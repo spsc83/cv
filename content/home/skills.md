@@ -71,6 +71,11 @@ feature:
   icon_pack: custom
   name: Delphi
 
+- description: 
+  icon: java
+  icon_pack: custom
+  name: Java
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
