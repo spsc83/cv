@@ -31,6 +31,9 @@ content:
     tag: website
   - name: Pipeline
     tag: pipeline
+  - name: APP
+    tag: app
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
