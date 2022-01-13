@@ -36,6 +36,11 @@ feature:
   icon_pack: custom
   name: MySQL
 
+- description:
+  icon: sqlite
+  icon_pack: custom
+  name: SQLite
+  
 - description: 
   icon: html5
   icon_pack: fab
