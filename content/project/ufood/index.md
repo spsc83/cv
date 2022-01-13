@@ -1,6 +1,6 @@
 ---
 title: Ufood
-summary: Ufood provides solutions for restaurant management. As a project manager, I supervised 10 employees and managed the accounts of over 1000 different vendors. We designed applications for PC, tablet, and POS terminal, website for restaurant management, in addition to creating customized WeChat accounts for vendors and customers to facilitate reservations, ordering, and payments.
+summary: Ufood provides solutions for restaurant management. In addition to designed applications for PCs, tablets and POS terminals, restaurant management websites, we have also created customized WeChat accounts for restaurants and customers to facilitate reserving, ordering and payment. As a project manager, I supervised 10 employees and manage accounts for over 1000 different restaurants. I am responsible for sorting out customer feedback, arranging development tasks, and keeping the system running smoothly.
 tags:
 - solution
 date: "2018-04-27T00:00:00Z"
