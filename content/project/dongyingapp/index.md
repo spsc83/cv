@@ -1,5 +1,5 @@
 ---
-title: Dongying e-Card
+title: Dongying e-Card (China)
 summary: Dongying e-Card is a mobile app project that can help people in Dongying Shandong, China register to see doctors, scan QRcode to pay, pay for property fees, utilities, and so on. As a project manager, I led a 10 people developing team. I was responsible for designing the prototype of Dongying e-Card app, and software interface integration with the Social Security Administration, library, hospital, and other institutions in Dongying Shandong, China.
 tags:
 - app

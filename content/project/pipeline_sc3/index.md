@@ -1,5 +1,5 @@
 ---
-title: Pipeline of identifying genome structural variations from single-cell whole-genome sequencing data
+title: Pipeline of identifying genome structural variations from single-cell whole-genome sequencing data (USA)
 tags:
 - pipeline
 

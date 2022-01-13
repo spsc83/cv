@@ -1,5 +1,5 @@
 ---
-title: Pipeline of identifying single nucleotide variations (SNVs) and short insertions and deletions (INDELs) from single cell sequencing data 
+title: Pipeline of identifying single nucleotide variations (SNVs) and short insertions and deletions (INDELs) from single cell sequencing data (USA)
 tags:
 - pipeline
 

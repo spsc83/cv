@@ -1,5 +1,5 @@
 ---
-title: Website of a database of somatic mutations in normal human tissues (SomaMutDB)
+title: Website of a database of somatic mutations in normal human tissues (USA)
 tags:
 - website
 
