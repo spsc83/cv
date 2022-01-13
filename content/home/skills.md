@@ -76,6 +76,11 @@ feature:
   icon_pack: custom
   name: Java
 
+- description: 
+  icon: perl
+  icon_pack: custom
+  name: Perl
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
