@@ -37,7 +37,7 @@ abstract: De novo mutations, a consequence of errors in DNA repair or replicatio
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [Database]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
