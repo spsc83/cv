@@ -43,15 +43,15 @@ tags: [Database]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: SomaMutDB
+  url: https://vijglab.einsteinmed.org/SomaMutDB/
 
 url_pdf: 'https://watermark.silverchair.com/gkab914.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMdby1MGdcT1YHynPcAgEQgIICd0NNhS-rpscOpYfZP60xjeIPk7pqT-cEPrC6SQizQWNMcIxRPGd73UjfQ3L_-qQgrJiosmVXPVsHQVkBIPGyziJqs_bsR-AbSwvGzQt0nJp2UURNXAT6IcJLiMS_I1dWPJIvdbFv_1GWLwPkKCvzoK85a4SNpNOPSI5jdHH11ys-a9F1H5Ln59ndVs89oF8JnhZmGQwl3Z3FYOJICI1pCZ0NAu_a6Xdqef7A6LLcCC20pPy4aA_kiJBea_jGxPnanXWUqpOHiflXEXe0ZfQ3rWY6lHM_R02RuRHtgj1TOBvgBXM58IvbVYPyWFEuS2-ykMiGJS5kn98oJI_Wx7rQqpzRu4G0bZcnZawVpiyfUfe6aapE7Hkj5iUZDqzuQWKBrgPIGAKzO89tjXCMBXE3Hgj3z7_dTtJhqhvgeTcVKJzy0D3OK9LaYk0Z8kC9r_7nN2lafNWqDmDw0pqqV_1bDJ21zZrBOMj5oOQ-giTWZAS9T4YdCLy0P0m1D_FO5JurrNiOuaFCHPqDruFwh65L7Cpj0ruCwiuuwXtDAe75e6bn2PHhyn1xPp3h3OhyNLQbZxm0KxPvvMOhDtePDK4l0zxxxrOIRTSZ8k0i1hWrZh3hQE4fTMtE-kJvnkzDPqe2NruC13AOHJYc_giEoHZmwbtAfbedDbBCS_nLGpBCC2JjMQIhOQFqXf02nyyTiNSWAmAnh7zQPOjeNpXDQtyBoLyi3xkonDjaZmZbQa3-Nu5MpVzgngJF4ogoj2KayGQoHeQPSFTRZlnzI3bTNHqoEbRFJsIwumeWCw3Q0nIf4i5pHfdJI6IHPUn4b9UkN9-v5mFDI4wqFQI'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://vijglab.einsteinmed.org/SomaMutDB/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -68,15 +68,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
@@ -87,4 +87,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-[Supplementary](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/D1/10.1093_nar_gkab914/1/gkab914_supplemental_file.pdf?Expires=1645063994&Signature=phLmgqf5ChRTOBN5pXMa6lyqrq9W99WanNEklztmD6oRTMGdnPgedkLAKZ8Hk7HRHMtJkTS4mis3nSP9xXtmLEoMcRwCT82aBXFkxpB3~IgFD7UOh~XfvVAyQcONFxPSaATPNlvT3l4goM8myzbvnSbG~tdydbG9sB7Ya2zvRubTNrwTjGmD~tgzRmaBpPNgJYWZEK8yHn9lY-ZUDtu2tIs4g22lDPJu37~~~qrFKFtmyOnJqQMMbwmqgtmeQrKDNT96h8a5wjTaV80NJlucU2~aq2X52FSWU~Rwhx5p-Lrw0enE79zQJkDVu1J8bLwavULOH9KPdeo6szESbrPzOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA).
+[Supplementary](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/D1/10.1093_nar_gkab914/1/gkab914_supplemental_file.pdf?Expires=1645063994&Signature=phLmgqf5ChRTOBN5pXMa6lyqrq9W99WanNEklztmD6oRTMGdnPgedkLAKZ8Hk7HRHMtJkTS4mis3nSP9xXtmLEoMcRwCT82aBXFkxpB3~IgFD7UOh~XfvVAyQcONFxPSaATPNlvT3l4goM8myzbvnSbG~tdydbG9sB7Ya2zvRubTNrwTjGmD~tgzRmaBpPNgJYWZEK8yHn9lY-ZUDtu2tIs4g22lDPJu37~~~qrFKFtmyOnJqQMMbwmqgtmeQrKDNT96h8a5wjTaV80NJlucU2~aq2X52FSWU~Rwhx5p-Lrw0enE79zQJkDVu1J8bLwavULOH9KPdeo6szESbrPzOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
