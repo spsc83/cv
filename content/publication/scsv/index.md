@@ -1,5 +1,5 @@
 ---
-title: "Identifying genome structural variations in single cells. In submission."
+title: "Identifying genome structural variations in single cells"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -20,7 +20,7 @@ author_notes:
 - "These authors contributed equally to this work."
 - "These authors contributed equally to this work."
 
-date: "2020-09-10T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,8 +33,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Methods*
-publication_short: In *Nature Methods*
+publication: In *Nature Methods* (In submission)
+publication_short: In *Nature Methods* (In submission)
 
 abstract: 
 
