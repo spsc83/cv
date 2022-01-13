@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 95
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -25,28 +25,20 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2015-12-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: China UnionPay Merchant Services Company, Ltd.
+  organization_url: https://www.chinaums.com/
+  title: Employee of the Year 
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2014-12-25"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: China UnionPay Merchant Services Company, Ltd.
+  organization_url: https://www.chinaums.com/
+  title: Employee of the Year 
+  url: 
 
 design:
   columns: '2' 
