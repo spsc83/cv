@@ -87,4 +87,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+[Supplementary](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/D1/10.1093_nar_gkab914/1/gkab914_supplemental_file.pdf?Expires=1645063994&Signature=phLmgqf5ChRTOBN5pXMa6lyqrq9W99WanNEklztmD6oRTMGdnPgedkLAKZ8Hk7HRHMtJkTS4mis3nSP9xXtmLEoMcRwCT82aBXFkxpB3~IgFD7UOh~XfvVAyQcONFxPSaATPNlvT3l4goM8myzbvnSbG~tdydbG9sB7Ya2zvRubTNrwTjGmD~tgzRmaBpPNgJYWZEK8yHn9lY-ZUDtu2tIs4g22lDPJu37~~~qrFKFtmyOnJqQMMbwmqgtmeQrKDNT96h8a5wjTaV80NJlucU2~aq2X52FSWU~Rwhx5p-Lrw0enE79zQJkDVu1J8bLwavULOH9KPdeo6szESbrPzOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA).
