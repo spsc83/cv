@@ -33,7 +33,8 @@ content:
     tag: pipeline
   - name: APP
     tag: app
-
+  - name: Restaurant Solution
+    tag: solution
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
