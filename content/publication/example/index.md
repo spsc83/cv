@@ -51,7 +51,7 @@ url_pdf: 'https://watermark.silverchair.com/gkab914.pdf?token=AQECAHi208BE49Ooan
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://vijglab.einsteinmed.org/SomaMutDB/'
 url_slides: ''
 url_source: ''
 url_video: ''
