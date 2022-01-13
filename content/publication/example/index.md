@@ -13,8 +13,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "The authors wish it to be known that, in their opinion, these authors should be regarded as joint First Authors."
+- "The authors wish it to be known that, in their opinion, these authors should be regarded as joint First Authors."
 
 date: "2021-08-06T00:00:00Z"
 doi: "10.1093/nar/gkab914"
