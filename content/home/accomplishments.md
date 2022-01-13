@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
   date_start: "2015-12-25"
   description: ""
@@ -31,10 +31,10 @@ item:
   organization_url: https://www.chinaums.com/
   title: Employee of the Year 
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
   date_start: "2014-12-25"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: 
   organization: China UnionPay Merchant Services Company, Ltd.
   organization_url: https://www.chinaums.com/
   title: Employee of the Year 
