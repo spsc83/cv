@@ -6,7 +6,7 @@ title: Yujue Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Technician<br>3477890342
+role: 1853 Tomlinson Ave., Bronx, NY, 10461; (347)-789-0342; spsc83@gmail.com<br>Research Technician
 
 # Organizations/Affiliations to show in About widget
 organizations:
