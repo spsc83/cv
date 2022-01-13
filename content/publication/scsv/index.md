@@ -20,7 +20,7 @@ author_notes:
 - "These authors contributed equally to this work."
 - "These authors contributed equally to this work."
 
-date: ""
+date: "2020-10-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
