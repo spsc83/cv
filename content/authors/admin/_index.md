@@ -66,9 +66,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-• 3+ years’ experience of website developing, developing optimizing and implementing single cell DNA whole genome sequencing (WGS) analyzing pipeline including quality control, read alignment, structure variation (SV) calling, single nucleotide variation (SNV) and short insertion and deletion (INDEL) calling. <br>
-• 2 years' experience of annotating and classifying SNVs and INDELs. <br>
-• 4+ years’ experience of developing, and implementing integrated payment system in China.
+• 6+ years’ working experience in finance (programming and project managing). <br>
+• 3+ years’ working experience in bioinformatics, including website developing, single cell DNA whole genome sequencing (WGS) analyzing pipeline developing optimizing and implementing, and single nucleotide variations (SNVs) and short insertions and deletions (INDELs) from next generation sequencing data annotating and classifying.
+
 
 <!-- Yujue Wang is a research technician at Albert Einstein College of Medicine, department of genetics. He helps the postdocs, professors, and labs with their computational projects. He is familiar with the DNA mapping and variant calling pipelines. And he is fluent in many coding languages such as Python, R, Flask, MySQL, HTML, CSS, JavaScript, jQuery, Bash, C/C++, Delphi, Java, Perl. He is also a native speaker of Chinese (Mandarin). -->
 
