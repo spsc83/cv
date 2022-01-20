@@ -38,7 +38,7 @@ experience:
         * I annotated and classify SNVs and indels identified from the WGS data in >1500 22q11.2 deletion syndrome patients into damaging LoF, damaging frameshift, damaging Missense, benign Missense, splice-disrupting, synonymous variants using multiple state-of-art algorithms, software, and public databases including VEP, Bystro, spliceAI, etc. under the supervision of a postdoc. I built an SQLite database for it. And I implemented multiple statistical tests including, for example, Fisher’s exact test, binomial test, variant-Set Test for Association using Annotation infoRmation (STAAR) based on the database. The paper of the project is on the way and I am the second author.
         * I built the lab websites for two PIs on the wowchemy and WIX platforms.
         * I translated the global coordination level (GCL) analysis method from MATLAB to R for one postdoc.
-        * I developed a job submission website using Python, HTML, CSS, JavaScript and etc. for students and postdocs who are not familiar with Linux commands and high-performance computing clusters (HPC).
+        * I developed a job submission website for students and postdocs in Albert Einstein College of Medicine to facilitate their computational analyze.
         * I am developing a structural variation calling method for one PI with Python (ongoing).
 
   - title: Volunteer and waiting for my H1b visa approval
