@@ -85,7 +85,12 @@ feature:
   icon: perl
   icon_pack: custom
   name: Perl
-  
+
+- description: 
+  icon: matlab
+  icon_pack: custom
+  name: MATLAB
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
