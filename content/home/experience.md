@@ -28,7 +28,7 @@ experience:
     company_logo: einstein
     location: Bronx New York, USA
     date_start: '2019-04-15'
-    date_end: ''
+    date_end: '2022-03-31'
     description: |2-
         As a programmer, I implement multiple projects and help the postdocs, professors, and labs with their projects. 
         * SomaMutDB is a website database that compiles all available somatic mutations data in healthy tissues including in-house data and publicly available data up to date. It provides multiple functions such as data visualization, data browsing, signature analyzing and data download. I implemented 6 tools including MutationalPatterns, SomaticSignatures, hdp, signature_tools_lib, Sigprofiler, and mmsig in the signature analyzing module of the website. I designed the structure of the website system, programmed the front end and the back end with Python, HTML, CSS, JavaScript, jQuery, SQL and etc. And I set up the MySQL database for the website. The paper of this website database was published on Nucleic Acids Research. I am the co-first author.
