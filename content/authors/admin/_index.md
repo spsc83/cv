@@ -6,12 +6,12 @@ title: Yujue Wang
 superuser: true
 
 # Role/position/tagline
-role: 1853 Tomlinson Ave.<br>Bronx, NY, 10461<br>(347)-789-0342<br>spsc83@gmail.com<br><br>Programmer
+role: 1853 Tomlinson Ave.<br>Bronx, NY, 10461<br>(347)-789-0342<br>spsc83@gmail.com<br><br>Senior Data Engineer, Bioinformatics | Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Albert Einstein College of Medicine
-  url: https://einsteinmed.edu
+- name: GeneDx
+  url: https://www.genedx.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: Yujue Wang is intrested in DNA whole genome sequencing data analyzing, full stack developing. Currently he is studying maching learning.
