@@ -10,7 +10,7 @@ role: 1853 Tomlinson Ave.<br>Bronx, NY, 10461<br>(347)-789-0342<br>spsc83@gmail.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: GeneDx
+- name: GeneDx | sema4
   url: https://www.genedx.com
 
 # Short bio (displayed in user profile at end of posts)
