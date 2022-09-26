@@ -28,7 +28,7 @@ experience:
     company_logo: genedx
     location: Remote, USA
     date_start: '2022-04-15'
-    date_end: 'present'
+    date_end: ''
     description: |2-
         As a senior data engineer, I manage GeneDx’s exome sequencing data between on-prem and Azure cloud storage. And I help genetic counselors to send out clinical data to customers.
         * Mocha (Module for arChive on Azure) is a Python module that supports GeneDx’s exome data archive and data send-out utilizing Azure storage. In this project, I developed 80% of the script, scripted the unit test, scripted the document auto-update, integrated the unit test and document auto-update into GitHub action, and designed and implemented the function test.
