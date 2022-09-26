@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Data Engineer
+    company: GeneDx | Sema4
+    company_url: 'https://www.genedx.com'
+    company_logo: genedx
+    location: Remote, USA
+    date_start: '2022-04-15'
+    date_end: 'present'
+    description: |2-
+        As a senior data engineer, I manage GeneDx’s exome sequencing data between on-prem and Azure cloud storage. And I help genetic counselors to send out clinical data to customers.
+        * Mocha (Module for arChive on Azure) is a Python module that supports GeneDx’s exome data archive and data send-out utilizing Azure storage. In this project, I developed 80% of the script, scripted the unit test, scripted the document auto-update, integrated the unit test and document auto-update into GitHub action, and designed and implemented the function test.
+
   - title: Programmer
     company: Albert Einstein College of Medicine, Genetics Department
     company_url: 'https://einsteinmed.edu'
@@ -39,7 +50,6 @@ experience:
         * I built the lab websites for two PIs on the wowchemy and WIX platforms.
         * I translated the global coordination level (GCL) analysis method from MATLAB to R for one postdoc.
         * I developed a job submission website for students and postdocs in Albert Einstein College of Medicine to facilitate their computational analyze.
-        * I am developing a structural variation calling method for one PI with Python (ongoing).
 
   - title: Volunteer and waiting for my H1b visa approval
     company: Albert Einstein College of Medicine, Genetics Department
