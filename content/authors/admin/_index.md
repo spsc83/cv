@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.S. in Control Science and Engineering
+  - course: M.S. Control Science and Engineering
     institution: East China University of Science and Technology, Shanghai, China
     year: Sep. 2007 - May 2012 
-  - course: B.S. in Electrical Engineering and Automation
+  - course: B.S. Electrical Engineering and Automation
     institution: Tongji University, Shanghai, China
     year: Sep. 2003 – Jun. 2007
 
