@@ -10,8 +10,6 @@ authors:
 - Bernice Morrow
 
 
-# Author notes (optional)
-author_notes:
 
 date: "2023"
 doi: ""
