@@ -66,7 +66,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-• 1+ years of data lake development and multiple cloud data transfer development experience.<br>
+• 2+ years of Azure data lake development and management experience.<br>
+• 1+ years of multiple cloud data transfer development and management experience.<br>
 • 3+ years’ working experience in bioinformatics, including website developing, single cell DNA whole genome sequencing (WGS) analyzing pipeline developing optimizing and implementing, and single nucleotide variations (SNVs) and short insertions and deletions (INDELs) from next generation sequencing data annotating and classifying.<br>
 • 6+ years’ working experience in finance (programming and project managing). 
 
