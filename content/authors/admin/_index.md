@@ -51,7 +51,7 @@ social:
   link: https://github.com/spsc83
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yujue-wang-bronx/
+  link: https://www.linkedin.com/in/yujue-wang-boston/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
