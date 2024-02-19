@@ -28,7 +28,7 @@ experience:
     company_logo: genedx
     location: Remote, USA
     date_start: '2022-04-15'
-    date_end: '2024-02'
+    date_end: '2024-02-07'
     description: |2-
         As a senior data engineer, have been involved in multiple projects. 
         * Azure data lake project: This data lake is for GeneDx’s exome and genome sequencing data. To build the data lake from scratch I developed a data management system called Mocha. My role encompassed the comprehensive development of Python scripts for Mocha's ETL pipeline, data archival and retrieval, database design, front-end design and development, document automation updates, CI/CD with GitHub actions, as well as the design and execution of unit tests and function tests. Here is the tech stack of the Azure data lake: Python, Django, Bootstrap, jQuery, HTML, SQLite, PostgreSQL, and Azure cloud storage. 
