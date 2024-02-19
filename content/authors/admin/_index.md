@@ -6,13 +6,13 @@ title: Yujue Wang
 superuser: true
 
 # Role/position/tagline
-role: Weston, MA, 02493<br>(347)-789-0342<br>spsc83@gmail.com<
-#br><br>Senior Data Engineer, Bioinformatics | Data Science
+role: Weston, MA, 02493<br>(347)-789-0342<br>spsc83@gmail.com
+#<br><br>Senior Data Engineer, Bioinformatics | Data Science
 
 # Organizations/Affiliations to show in About widget
 #organizations:
-#- name: GeneDx
-#  url: https://www.genedx.com
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Yujue Wang is intrested in DNA whole genome sequencing data analyzing, full stack developing. Currently he is studying maching learning.
