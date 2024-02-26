@@ -13,10 +13,10 @@ authors:
 
 
 date: "2023-06-01T00:00:00Z"
-doi: ""
+doi: "10.1038/s41525-023-00363-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2023-07-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +25,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: npj Genomic Medicine (Accepted)
-publication_short: npj Genomic Medicine (Accepted)
+publication: npj Genomic Medicine
+publication_short: npj Genomic Medicine
 
 abstract: 
 
